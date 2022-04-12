@@ -1,7 +1,6 @@
 package com.example.gps;
 
 import static com.example.gps.R.*;
-import static com.example.gps.R.layout.activity_main;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
